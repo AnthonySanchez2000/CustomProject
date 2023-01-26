@@ -1,5 +1,5 @@
 # Data Origin
-I downloaded the .csv file of a dataset, provided by OurWorldinData.org, that tolls 33 different causes of deaths for various countries/regions between 1990 and 2019. I made minor formatting changes and saved it as an .xslx file. I imported the .xslx file into my Microsoft SQL Server Studio
+I downloaded the .csv file of a dataset, provided by [OurWorldinData.org](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause?time=1990..2019), that tolls 33 different causes of deaths for various countries/regions between 1990 and 2019. I made minor formatting changes and saved it as an .xslx file. I imported the .xslx file into my Microsoft SQL Server Studio
 
 # First Query
 Although the Studio import wizard confirmed the data was properly imported, my [initial](https://github.com/AnthonySanchez2000/ProjectPortfolio/blob/main/QueryStep1SelectAll.sql) query was to double check that I can see the table
