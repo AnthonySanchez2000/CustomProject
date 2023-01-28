@@ -1,0 +1,5 @@
+{column AK} 1st Highest # of Deaths: =MAX(Table1[@[Executions]:[Acute hepatitis]])
+
+{column AM} 2nd Highest # of Deaths: =LARGE(Table1[@[Executions]:[Acute hepatitis]],2)
+
+[column AO} 3rd Highest # of Deaths: =LARGE(Table1[@[Executions]:[Acute hepatitis]],3)
