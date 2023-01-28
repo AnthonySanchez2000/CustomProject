@@ -14,4 +14,4 @@ I wanted to see the entire table but [exclude the countries/regions that were no
 Combining my 2nd and 3rd queries, my [4th query](https://github.com/AnthonySanchez2000/CustomProject/blob/main/QueryStep4SelectUSCanadaMexDeathTotal.sql) would display the whole table but only include the U.S, Canada, and Mexico. Then, the total death count would be shown in the last column.
 
 # Visualizing
-Using the results from my 4th query, I copied all 3 tables into an [Excel spreadsheet](https://github.com/AnthonySanchez2000/CustomProject/blob/main/CanMexUsaCauseofDeaths'90-'19%20(Tableau).xlsx). I already had an idea of how I wanted to visualize my data, so I made
+Using the results from my 4th query, I copied all 3 tables into an [Excel spreadsheet](https://github.com/AnthonySanchez2000/CustomProject/blob/main/CanMexUsaCauseofDeaths'90-'19%20(Tableau).xlsx). I already had an idea of how I wanted to visualize the data, so I made 6 additional columns. Those columns would have the top 3 largest amounts of deaths in each row and the respective cause. 
