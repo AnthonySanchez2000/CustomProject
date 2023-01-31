@@ -12,3 +12,5 @@ I wanted to see the entire table but [exclude the countries/regions that were no
 
 # 4th Query
 Combining my 2nd and 3rd queries, my [4th query](https://github.com/AnthonySanchez2000/CustomProject/blob/main/QueryStep4SelectUSCanadaMexDeathTotal.sql) would display the whole table but only include the U.S, Canada, and Mexico. Then, the total death count would be shown in the last column.
+
+# [Visualization](https://public.tableau.com/views/DeathsinNorthAmerica/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
